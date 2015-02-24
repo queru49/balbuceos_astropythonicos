@@ -2,17 +2,17 @@
 IPython Notebooks de mi blog [Balbuceos astropythonicos](http://balbuceosastropy.blogspot.com.es/)
 #### In the folder Notebooks EN
 - Working with Astronomical Coordinate Systems [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_EN/B1_Coordenadas-EN.ipynb)
-- The Mollweide projection
-- Representations of the sphere and the cosmic microwave background (CMB)
-- How to work with physical units in Python?
-- The Blackbody Radiation and the Cosmic Microwave Background (CMB) in Python: part I
-- The Blackbody Radiation and the Cosmic Microwave Background (CMB) in Python: part II
-- An easy way to make SQL queries from Python to the SDSS database
-- The color of celestial objects: part I
-- The color of celestial objects: part II
-- The color of celestial objects: part III
-- Supernovae and the Hubble diagram
-- Construction of Hertzsprung-Russell diagrams in Python
+- The Mollweide projection [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_EN/B2_Mollweide_EN.ipynb)
+- Representations of the sphere and the cosmic microwave background (CMB) [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_EN/B3_healpy-EN.ipynb)
+- How to work with physical units in Python? [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_EN/B4_unidades_f%C3%ADsicas_EN.ipynb)
+- The Blackbody Radiation and the Cosmic Microwave Background (CMB) in Python: part I [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_EN/B5_cuerpo_negro_Parte_I_EN.ipynb)
+- The Blackbody Radiation and the Cosmic Microwave Background (CMB) in Python: part II [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_EN/B5_cuerpo_negro_Parte_II_EN.ipynb)
+- An easy way to make SQL queries from Python to the SDSS database [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_EN/B6_SDSS_SQL_EN.ipynb)
+- The color of celestial objects: part I [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_EN/B7_color_Parte_I_EN.ipynb)
+- The color of celestial objects: part II [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_EN/B7_color_Parte_II_EN.ipynb)
+- The color of celestial objects: part III [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_EN/B7_color_Parte_III_EN.ipynb)
+- Supernovae and the Hubble diagram [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_EN/B8_Hubble_EN.ipynb)
+- Construction of Hertzsprung-Russell diagrams in Python [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_EN/B9_H-R_EN.ipynb)
 
 
 #### En la carpeta Notebooks ES
