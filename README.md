@@ -1,7 +1,7 @@
 ## balbuceos_astropythonicos
 IPython Notebooks de mi blog [Balbuceos astropythonicos](http://balbuceosastropy.blogspot.com.es/)
 #### In the folder Notebooks EN
-- Working with Astronomical Coordinate Systems
+- Working with Astronomical Coordinate Systems [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_EN/B1_Coordenadas-EN.ipynb)
 - The Mollweide projection
 - Representations of the sphere and the cosmic microwave background (CMB)
 - How to work with physical units in Python?
