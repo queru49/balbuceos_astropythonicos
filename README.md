@@ -1,5 +1,19 @@
 ## balbuceos_astropythonicos
 IPython Notebooks de mi blog [Balbuceos astropythonicos](http://balbuceosastropy.blogspot.com.es/)
+#### In the folder Notebooks EN
+- Working with Astronomical Coordinate Systems
+- The Mollweide projection
+- Representations of the sphere and the cosmic microwave background (CMB)
+- How to work with physical units in Python?
+- The Blackbody Radiation and the Cosmic Microwave Background (CMB) in Python: part I
+- The Blackbody Radiation and the Cosmic Microwave Background (CMB) in Python: part II
+- An easy way to make SQL queries from Python to the SDSS database
+- The color of celestial objects: part I
+- The color of celestial objects: part II
+- The color of celestial objects: part III
+- Supernovae and the Hubble diagram
+- Construction of Hertzsprung-Russell diagrams in Python
+
 
 #### En la carpeta Notebooks ES
 - Trabajando con coordenadas astronómicas [IPython nbviewer](http://nbviewer.ipython.org/github/queru49/balbuceos_astropythonicos/blob/master/Notebooks_ES/B1_Coordenadas.ipynb)
